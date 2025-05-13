@@ -3,7 +3,7 @@ from tensorflow.keras.models import load_model
 from PIL import Image
 import numpy as np
 
-model = load_model("content/project/models/sickle_model.h5")
+model = load_model("models/sickle_model.h5")
 
 st.title("🩸 Sickle Cell Disease Image Classifier")
 
