@@ -14,6 +14,7 @@ streamlit run streamlit_app.py
 
 🌐 Deployment
 Deployed at Streamlit Cloud.
+https://sickle-cell-image-classifiern-cyess4kgajrsz37smuv2kk.streamlit.app/
 
 ## 🚧 Project Status: In Development
 
