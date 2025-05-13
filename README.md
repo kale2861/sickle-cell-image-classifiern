@@ -13,3 +13,11 @@ cd app
 streamlit run streamlit_app.py
 🌐 Deployment
 Deployed at Streamlit Cloud.
+## 🚧 Project Status: In Development
+
+This app is under active development. The current version is a proof of concept and does not yet produce accurate results.
+
+Planned improvements:
+- Retraining with better class balance
+- Improved preprocessing
+- More validation/testing
