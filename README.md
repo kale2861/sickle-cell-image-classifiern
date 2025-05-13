@@ -11,3 +11,5 @@ A CNN-powered Streamlit app that classifies blood smear images as Positive or Ne
 ```bash
 cd app
 streamlit run streamlit_app.py
+🌐 Deployment
+Deployed at Streamlit Cloud.
